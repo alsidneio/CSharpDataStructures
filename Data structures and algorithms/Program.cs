@@ -10,6 +10,9 @@ namespace Data_structures_and_algorithms
     {
         static void Main(string[] args)
         {
+            LinkedList list = new LinkedList();
+            list.AddToEnd(35);
+            Console.ReadLine();
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Data structures and algorithms\Data structures and algorithms\obj\Debug\Data structures and algorithms.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Data structures and algorithms\Data structures and algorithms\obj\Debug\Data structures and algorithms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Data structures and algorithms\Data structures and algorithms\bin\Debug\Data structures and algorithms.exe.config
+C:\Users\User\source\repos\Data structures and algorithms\Data structures and algorithms\bin\Debug\Data structures and algorithms.exe
+C:\Users\User\source\repos\Data structures and algorithms\Data structures and algorithms\bin\Debug\Data structures and algorithms.pdb
+C:\Users\User\source\repos\Data structures and algorithms\Data structures and algorithms\obj\Debug\Data structures and algorithms.exe
+C:\Users\User\source\repos\Data structures and algorithms\Data structures and algorithms\obj\Debug\Data structures and algorithms.pdb
