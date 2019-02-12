@@ -47,7 +47,7 @@ namespace Data_structures_and_algorithms
         }
         public void AddToFront(object data) {
             // create the node for the data to go into  
-            Node node = new Node();
+            Node node = new Node(); 
             //place the "data" into the node 
             node.data = data;
 
